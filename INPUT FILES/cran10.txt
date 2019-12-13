@@ -1,0 +1,320 @@
+.I 206
+.T
+the applications of the polygon method to the calculation
+of the compressible subsonic flow round two-dimensional
+profiles .
+.A
+woods,l.c.
+.W
+the applications of the polygon method to the calculation
+of the compressible subsonic flow round two-dimensional
+profiles .
+  this paper sets out the method now used by the author of
+applying the polygon method to the calculation of the compressible
+subsonic flow round two-dimensional aerofoils .  tables have been
+constructed which can be used for all aerofoil shapes, putting the
+polygon method on the same footing numerically as goldstein's
+method has the advantage over approximation 3 that it can be applied in
+the following cases which are beyond the scope of goldstein's method ..
+conventional aerofoils, (b) the low-speed flow about very thick
+aerofoils, e.g., in reference 3 it is applied to circular cylinders, (c)
+the flow about symmetric aerofoils between either straight or constant
+pressure walls, (d) flow in asymmetric channels,
+and (e) more difficult problems
+of the flow about aerofoils in the presence
+of one or two constraining
+walls (to be published) .  a method of
+calculating lift and moment
+coefficients, and their rates of change
+with incidence (a) is also
+given in the paper .
+  as an example the velocity distribution and the rates of
+change of the lift and moment coefficients with a are calculated for
+the aerofoil r.a.e.104 at values of m (mach number at infinity) of 0,
+and 0.7, for various values of the incidence, a .  the velocity
+distributions for zero incidence are found to be in fair agreement with
+the corresponding experimental results .  the results at incidence are
+in satisfactory agreement with the experimental results, not for the
+same incidence, but for the same lift coefficient .  it is found, for
+example, that at m = 0.7 the theory for a = 0.8 agrees best
+with experiment for a = 1.0, when the lift coefficients are
+approximately the same .
+.I 207
+.T
+laminar boundary layer oscillations and transition
+on a flat plate .
+.A
+schubauer,g.b. and skramstad,h.k.
+.W
+laminar boundary layer oscillations and transition
+on a flat plate .
+  this is an account of an investigation in which oscillations
+were discovered in the laminar boundary layer along a flat plate .
+these oscillations were found during the course of an experiment
+in which transition from laminar to turbulent flow was being
+studied on the plate as the turbulence in the wind stream was
+being reduced to unusually low values by means of damping
+screens .  the first part of the paper deals with experimental
+methods and apparatus, measurements of turbulence and
+sound, and studies of transition .  a description is then given
+of the manner in which oscillations were discovered and how
+they were found to be related to transition, and then how
+controlled oscillations were produced and studied in detail .  the
+oscillations are shown to be the velocity variations
+accompanying a wave motion in the boundary layer, this wave motion having
+all the characteristics predicted by a stability theory based on
+the exponential growth of small disturbances .  a review of this
+theory is given .  the work is thus experimental confirmation
+of a mathematical theory of stability which had been in the
+process of development for a period of approximately 40 years,
+mainly by german investigators .
+.I 208
+.T
+the hall effect in the viscous flow of ionized gas
+between parallel plates under transverse magnetic field .
+.A
+sato,h.
+.W
+the hall effect in the viscous flow of ionized gas
+between parallel plates under transverse magnetic field .
+  the electrical conductivity of an ionized
+gas is anisotropic in the
+presence of magnetic field (hall effect) .
+the conductivity is expressed by
+a tensor in the same form for both fully
+and partially ionized gases .  by
+the use of modified ohm's law and
+conventional magnetohydrodynamical
+equations the incompressible viscous
+flow between parallel plates under
+the transverse magnetic field is analyzed
+and an exact solution is obtained
+when the magnetic reynolds number
+is small .  the numerical results
+reveal a remarkable effect of anisotropy
+of conductivity .  the acceleration
+and deceleration of viscous ionized
+gas under combined electric and
+magnetic fields are also calculated .
+.I 209
+.T
+boundary layer induced noise in the interior of aircraft .
+.A
+ribner,h.s.
+.W
+boundary layer induced noise in the interior of aircraft .
+  at high speeds the turbulent boundary layer washing the
+airplane fuselage excites appreciable skin vibration, promoting strong
+noise in the interior .  the fluctuating exciting pressure distribution
+can be represented as a pattern of moving waves (fourier integral) .
+a running ripple in the skin follows underneath each wave, and the noise
+is ultimately due to these ripples .
+  the acoustic effects of the running ripples are calculated
+for an infinite sheet,. this is considered the main result of the
+paper .  supersonically moving ripples radiate strong sound in the form
+of mach waves,. subsonically moving ripples radiate no sound .  formulas
+for the mean square surface pressure and the energy flux are obtained
+for an assumed idealized turbulent pressure spectrum .
+  the results are adapted to provide a tentative estimate of
+the noise generated at subsonic speeds in a practical fuselage .  the
+running ripples are almost noise-free, but multiple reflections at the
+frames and stringers promote standing waves .  an assumption is used
+to link the two kinds of waves, and this leads to provisional
+calculations of noise level ..  on this basis the noise level is
+predicted to vary as for thin boundary layers, changing
+progressively to for thick layers ( = external air
+density, = speed, = layer thickness, = panel thickness) .  some
+comparisons are made with experiment .  finally, an idea for
+minimizing the noise is presented .
+.I 210
+.T
+propeller in yaw .
+.A
+ribner,h.s.
+.W
+propeller in yaw .
+  it was realized as early as 1909 that a propeller in yaw
+develops a side force like that of a fin .  in 1917, r. g. harris
+expressed this force in terms of the torque coefficient for the
+unyawed propeller .  of several attempts to express the side
+force directly in terms of the shape of the blades, however, none
+has been completely satisfactory .  an analysis that
+incorporates induction effects not adequately covered in previous work
+and that gives good agreement with experiment over a wide
+range of operating conditions is presented herein .  the present
+analysis shows that the fin analogy may be extended to the form
+of the side-force expression and that the effective fin area may
+be taken as the projected side area of the propeller .  the
+effective aspect ratio is of the order of 8 and the appropriate dynamic
+pressure is roughly that at the propeller disk as augmented by
+the inflow .  the variation of the inflow velocity, for a
+fixed-pitch propeller, accounts for most of the variation of side force
+with advance-diameter ratio v nd .
+  the propeller forces due to an angular velocity of pitch are
+also analyzed and are shown to be very small for the pitching
+velocities that may actually be realized in maneuvers, with the
+exception of the spin .
+  further conclusions are ..  a dual-rotating propeller in yaw
+develops up to one-third more side force than a single-rotating
+propeller .  a yawed single-rotating propeller experiences a
+pitching moment in addition to the side force .  the pitching
+moment is of the order of the moment produced by a force equal
+to the side force, acting at the end of a lever arm equal to the
+propeller radius .  this cross-coupling between pitch and yaw
+is small but possibly not negligible .
+  the formulas for propellers in yaw derived herein (with the
+exception of the compressibility correction) and a series of
+charts of the side-force derivative calculated therefrom have been
+presented without derivation in an earlier report .
+.I 211
+.T
+effect of slight blunting of leading edge of an immersed
+body on the flow around it at hypersonic speed .
+.A
+chernyi,g.g.
+.W
+effect of slight blunting of leading edge of an immersed
+body on the flow around it at hypersonic speed .
+  manufacturing and maintainance of ideally sharp leading edges
+and noses is practically impossible, hence a discrepancy arises
+between the theory established for sharp edges and actual flow
+around slightly blunted edges, where a detached shock is formed
+with a subsonic adjacent region .  semi-empirical method is worked
+out showing that the pressure distribution in the vicinity of the
+leading edge is the same for different thin profiles having the same
+shape of bluntness on their edges or noses .  the data for a flat
+plate can be used for all of them .  for moderate supersonic speed
+the pressure on the remaining body is practically unaffected by the
+nose bluntness, and can be computed from a sharp-edge theory .
+for high supersonic speed a slight blunting of the edge can
+considerably alter the pattern of flow over a large region .  the method
+consists in replacing blunted edge by action of concentrated
+forces on the flow,. it is applied to blunted wedge where it shows
+doubling of the drag computed by classic theory, and to cones,
+where the drag of a blunted cone may become smaller than that of
+a sharp one .
+.I 212
+.T
+theory and tunnel tests of rotor blade for supersonic
+turbines .
+.A
+stratford,b.s. and sansome,g.e.
+.W
+theory and tunnel tests of rotor blade for supersonic
+turbines .
+  in special circumstances where a large work
+output is required from a turbine in a single stage
+it is necessary to use high pressure ratios across the
+nozzle blades, thus producing supersonic velocities at
+inlet to the rotor .  as part of an investigation into such
+turbines, several designs for the inter-blade passages of
+the rotor have been tested in a two-dimensional tunnel,
+a design theory being developed concurrently .
+  the first design, featuring constant passage width
+and curvature as in steam-turbine practice, but having
+thin leading and trailing edges, was found to suffer from
+focusing of the compression waves from the concave
+surface, with consequent flow separation from the
+opposite convex surface .  it gave a velocity coefficient of
+measured at an inlet mach number of 1.90 and turning
+angle of 140 deg .  the measured value compares favourably
+with values from previous steam tests, where the
+results have been in the range from 0.65 to 0.92 .
+  from theoretical reasoning, and from additional test
+observations, a subsequent passage was designed
+having an inlet transition length of small curvature, leading
+to a free-vortex passage of double the transition
+curvature,. a small amount of contraction was incorporated .
+schlieren photographs showed the flow in this
+passage to be almost shock free .  a thin region of low-energy
+air existed close to the convex surface, but
+liquid-injection tests located only one small bubble of reversed flow .
+pressure traverses at exit indicated a velocity
+coefficient of 0.952, based on the area-mean total pressure .
+when allowance is made for turning angle and
+reynolds number this result appears to compare quite favourably
+with previous work .
+  it would seem that the optimum blade pitching in a turbine
+would be about 20 to 30 per cent closer than in a
+two-dimensional cascade .  however, the resultant pitching
+tends to become very close, except at very large
+turning angles, with the result that in some applications
+difficulties could arise in the practical design and
+manufacture .
+  several uncertainties remain and the present design must be regarded
+as still experimental .
+.I 213
+.T
+the performance of supersonic turbine nozzles .
+.A
+stratford,b.s. and sansome,g.e.
+.W
+the performance of supersonic turbine nozzles .
+  an investigation has been conducted
+at the national gas turbine establishment into the
+performance of turbines having high pressure ratios
+per stage .  the present report discusses the mode of
+operation of supersonic nozzles for such turbines,
+and describes a cascade experiment .  both theory and
+experiment demonstrate that the conditions imposed
+upon the supersonic flow immediately downstream
+of the nozzles (e.g., by a following row of rotor blades)
+exert an overriding influence upon the nozzle outlet
+flow angle, and hence upon the maximum pressure
+ratio obtainable across the nozzle--providing that the
+axial component of velocity is subsonic .  this is an
+important difference from the more familiar flow of
+subsonic turbine nozzles, where, for example, the
+downstream gas angle is controlled predominantly by the
+nozzle blade shape and spacing .  a suitable test technique
+using a closed-jet tunnel is demonstrated .
+  the particular nozzles tested, of convergent-divergent
+form, had a straight-sided divergent portion of
+to axial direction) and a design mach number of 2 .
+the flow was found to be well behaved as regards shock
+pattern, losses, and starting over the range of pressure
+ratios tested--between 9 1 and 19 1 .  in particular the
+efficiency at the design pressure ratio of 16.6 1 was
+high, the velocity coefficient calculated from traverses of
+pitot and static tubes being 0.98 .
+  for the conversion of pitot to total pressure at a mach
+number of 2.5 a high accuracy is important in the
+measurement of the static pressure,. nevertheless readings
+from a conventional four-hole instrument appear to
+be reliable .
+.I 214
+.T
+on the testing of supersonic compressor cascades .
+.A
+staniforth,r.
+.W
+on the testing of supersonic compressor cascades .
+  to facilitate the development of high speed axial-flow compressors,
+an investigation was made into the possibility of measuring blade
+performance in a stationary cascade at supersonic speeds .  a suitable
+technique was developed and the losses in a variety of cascades were
+measured, but these losses were too high for the blading to have any
+possible application .  it was concluded that if a useful compressor is
+to result, it is essential to test the cascades at mach numbers close to
+the existing technique was suitable only for zero incidence tests, and
+thus a new approach is necessary .
+  some of the fundamentals of this cascade testing at low supersonic
+speeds are discussed in the light of the current understanding of the
+mode of operation of supersonic compressors at transonic speeds .
+.I 215
+.T
+the test performance of highly loaded turbine stages
+designed for high pressure ratio .
+.A
+johnston,i.h. and dransfield,d.c.
+.W
+the test performance of highly loaded turbine stages
+designed for high pressure ratio .
+  a blade design for a highly loaded two-stage
+turbine is described and the test performance of
+the turbine is presented .
+  some of the factors affecting the performance and matching
+of turbine blade rows operating at supersonic
+gas velocity are discussed and investigated by means of tests
+on a three-dimensional nozzle cascade tunnel
+and on a variety of single-stage turbine builds .

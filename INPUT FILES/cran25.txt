@@ -1,0 +1,700 @@
+.I 50
+.T
+investigation of laminar boundary layer in compressible
+fluids using the crocco method .
+.A
+van driest,e.r.
+.W
+investigation of laminar boundary layer in compressible
+fluids using the crocco method .
+  in the present investigation of the flow of air in a thin laminar
+boundary layer on a flat plate, the crocco method has been used to solve
+the simultaneous differential equations of momentum and energy involved
+in such flow .  the crocco method was used because it gave accurate
+results for arbitrary prandtl number near unity .  the prandtl number
+was taken at 0.75, the specific heat was held constant, and the
+sutherland law of viscosity-temperature variation was assumed to
+represent the viscosity data starting with an initial ambient
+temperature of -67.6 f .  the main results presented here are the
+skin-friction and heat-transfer coefficients as functions of reynolds number,
+mach number, and wall-to-free-stream temperature ratio .  variations of
+shear, velocity, temperature, and mach number across the boundary layer
+are included .  the crocco method is discussed in detail .
+.I 51
+.T
+theory of aircraft structural models subjected to aerodynamic
+heating and external loads .
+.A
+o'sullivan,w.j.
+.W
+theory of aircraft structural models subjected to aerodynamic
+heating and external loads .
+  the problem of investigating the simultaneous effects of transient
+aerodynamic heating and external loads on aircraft structures for the
+purpose of determining the ability of the structure to withstand flight
+to supersonic speeds is studied .  by dimensional analyses it is shown
+that ..
+constructed of the same materials as the aircraft will be thermally
+similar to the aircraft with respect to
+the flow of heat through the structure
+will be similar to those of the aircraft when the structural model is
+constructed at the same temperature as the aircraft .
+external loads will be similar to those of the aircraft .
+subjected to heating and cooling that correctly simulate the aerodynamic
+heating of the aircraft, except with respect to angular velocities and
+angular accelerations, without requiring determination of the heat flux
+at each point on the surface and its variation with time .
+acting on the aerodynamically heated structural model to those acting
+on the aircraft is determined for the case of zero angular velocity and
+zero angular acceleration, so that the structural model may be subjected
+to the external loads required for simultaneous simulation of stresses
+and deformations due to external loads .
+.I 52
+.T
+procedure for calculating flutter at high supersonic
+speed including camber deflections, and comparison
+with experimental results .
+.A
+morgan,h.g.
+.W
+procedure for calculating flutter at high supersonic
+speed including camber deflections, and comparison
+with experimental results .
+  a method which may be used at high supersonic mach numbers is
+described for calculating the flutter speed of wings having camber in
+their deflection modes .  the normal coupled vibration modes of the wing
+are used to derive the equations of motion .  chord deflections of the
+vibration modes are approximated by polynomials .  the wing may have a
+control surface and may carry external stores although no aerodynamic
+forces on the stores are presented .  the aerodynamic forces that are
+assumed to be acting on the wing are obtained from piston theory and
+also from a quasi-steady form of a theory for two-dimensional steady
+flow .  airfoil shape and thickness effects are taken account of in the
+analysis .
+  the method is used to calculate the flutter speed of some wings
+which had been previously tested at mach numbers of 1.3 to 3.0 .
+comparison of the calculations and experiment is made for flat-plate 60
+and 45 delta wings and also for an untapered 45 sweptback wing .
+.I 53
+.T
+transition reynolds numbers of separated flows at
+supersonic speeds .
+.A
+larson,h.k. and keating,s.j.
+.W
+transition reynolds numbers of separated flows at
+supersonic speeds .
+  experimental research has been conducted on the effects of wall
+cooling, mach number, and unit reynolds
+number on the transition reynolds
+number of cylindrical separated boundary
+layers on an ogive-cylinder model .
+results were obtained from pressure and temperature measurements and
+shadowgraph observations .  the maximum
+scope of measurements encompassed
+mach numbers between 2.06 and 4.24, reynolds numbers (based on length of
+separation) between 60,000 and 400,000,
+and ratios of wall temperature to
+adiabatic wall temperature between 0.35 and 1.0 .
+within the range of the
+present tests, the transition reynolds number was observed to decrease
+with increasing wall cooling, increase with increasing mach number, and
+increase with increasing unit reynolds number .  the wall-cooling effect
+was found to be four times as great when the attached boundary layer
+upstream of separation was cooled in conjunction with cooling of the
+separated boundary layer as when only the separated boundary layer was
+cooled .  wall cooling of both the
+attached and separated flow regions also
+caused, in some cases, reattachment in the otherwise separated region .
+cavity resonance present in the separated region for some model
+configurations was accompanied by a large decrease in transition reynolds
+number at the lower test mach numbers .
+.I 54
+.T
+method for calculation of compressible laminar boundary
+layer characteristics in axial pressure gradient with
+zero heat transfer .
+.A
+morduchow,m. and clarke,j.h.
+.W
+method for calculation of compressible laminar boundary
+layer characteristics in axial pressure gradient with
+zero heat transfer .
+  the karman-pohlhausen method is extended primarily to sixth-degree
+velocity profiles for determining
+the characteristics of the compressible
+laminar boundary layer over an adiabatic
+wall in the presence of an axial
+pressure gradient .  it is assumed that the prandtl number is unity and
+that the coefficient of viscosity varies linearly with the temperature .
+a general approximate solution which permits a rapid determination of
+the boundary-layer characteristics for any given free-stream mach number
+and given velocity distribution at the outer edge of the boundary layer
+is obtained .  numerical examples indicate that this solution will in
+practice lead to results of satisfactory
+accuracy, including the critical
+reynolds number for stability .  for the special purpose of calculating
+the location of the separation point in an adverse pressure gradient, a
+short and simple method, based on the use of a seventh-degree velocity
+profile, is derived .  the numerical example given here indicates that
+this method should in practice lead to sufficiently accurate results .
+for the special case of flow near a forward stagnation point it is shown
+that the karman-pohlhausen method with the usual fourth-degree profiles
+leads to results of adequate accuracy, even for the critical reynolds
+number .
+.I 55
+.T
+separation, stability and other properties of compressible
+laminar boundary layer with pressure gradient and heat
+transfer .
+.A
+morduchow,m. and grape,r.g.
+.W
+separation, stability and other properties of compressible
+laminar boundary layer with pressure gradient and heat
+transfer .
+  a theoretical study is made of the effect of pressure gradient,
+wall temperature, and mach number on laminar boundary-layer
+characteristics and, in particular, on the skin-friction and heat-transfer
+coefficients, on the separation point in an adverse pressure gradient,
+on the wall temperature required for complete stabilization of the
+laminar boundary layer, and on the minimum critical reynolds number for
+laminar stability .  the prandtl number is assumed to be unity and the
+coefficient of viscosity is assumed to be proportional to the
+temperature, with a factor arising from the sutherland relation .  a simple and
+accurate method of locating the separation point in a compressible flow
+with heat transfer is developed .  numerical examples to illustrate the
+results in detail are given throughout .
+.I 56
+.T
+an analysis of the applicability of the hypersonic
+similarity law to the study of the flow about bodies
+of revolution at zero angle of attack .
+.A
+ehret,d.m.
+.W
+an analysis of the applicability of the hypersonic
+similarity law to the study of the flow about bodies
+of revolution at zero angle of attack .
+  the hypersonic similarity law as derived by tsien has been
+investigated by comparing the pressure distributions along bodies of
+revolution at zero angle of attack .  in making
+these comparisons, particular
+attention was given to determining the limits of mach number and fineness
+ratio for which the similarity law applies .  for the purpose of this
+investigation, pressure distributions
+determined by the method of
+characteristics for ogive cylinders for
+values of mach numbers and fineness
+ratios varying from 1.5 to 12 were compared .
+pressures on various cones
+and on cone cylinders were also compared in this study .
+  the pressure distributions presented demonstrate that the hypersonic
+similarity law is applicable over a
+wider range of values of mach numbers
+and fineness ratios than might be expected from the assumptions made in
+the derivation .  this is significant since within the range of
+applicability of the law a single pressure
+distribution exists for all similarly
+shaped bodies for which the ratio of
+free-stream mach number to fineness
+ratio is constant .  charts are presented
+for rapid determination of
+pressure distributions over ogive cylinders for any combination of mach
+number and fineness ratio within defined limits .
+.I 57
+.T
+applicability of the hypersonic similarity rule to
+pressure distributions which include the effects of
+rotation for bodies of revolution at zero angle of
+attack .
+.A
+rossow,v.j.
+.W
+applicability of the hypersonic similarity rule to
+pressure distributions which include the effects of
+rotation for bodies of revolution at zero angle of
+attack .
+  the analysis of technical note 2250, 1950, is extended to include
+the effects of flow rotation .  it is
+found that the theoretical pressure
+distributions over ogive cylinders can be related by the hypersonic
+similarity rule with sufficient accuracy for most engineering purposes .
+  the error introduced into pressure distributions and drag of ogive
+cylinders by ignoring the rotation term in the characteristic equations
+is investigated .  it is found that
+the influence of the rotation term on
+pressure distribution and drag depends only upon the similarity
+parameter k (mach number divided by fineness ratio) .
+although the error in
+drag, due to neglect of the rotation term, is negligible at k=0.5, the
+error is about 30 percent at k=2.0 .
+  charts are presented for the rapid determination of pressure
+distributions for rotational flow over
+ogive cylinders for all values of
+the similarity parameter between 0.5 and
+of mach number and fineness ratio .
+.I 58
+.T
+pressure measurements on sharp and blunt 5 and 15 half-angle
+cones at mach number 3.86 and angles of attack to
+100 .
+.A
+amick,j.l.
+.W
+pressure measurements on sharp and blunt 5 and 15 half-angle
+cones at mach number 3.86 and angles of attack to
+100 .
+  measured pressure distributions on cones are compared with modified
+newtonian theory .  deviations as large as 14 percent of the stagnation
+pressure behind a normal shock are found .
+by combining empirical results
+for cylinders normal to the flow with
+newtonian concepts, a method of
+calculating pressures on cones at high angles
+of attack is developed .
+calculations by this method differ from the
+experimental results on sharp cones
+by only 2 percent of the stagnation
+pressure behind a normal shock .  for
+blunted cones, additional deviations
+up to 8 percent are noted near the
+nose .
+  schlieren pictures of the flow show an attached shock on the sharp
+of attack .  detachment of the shock
+appears to be associated with the
+attainment of sonic speed immediately
+behind the shock .
+  an orifice size effect is found which can increase the indicated
+pressure above the true value, if
+the orifice width is greater than
+one-tenth the local radius of curvature .
+.I 59
+.T
+tables of exact laminar-boundary layer solutions when
+the wall is porous and fluid properties are variable .
+.A
+brown,w.d. and donoughe,p.l.
+.W
+tables of exact laminar-boundary layer solutions when
+the wall is porous and fluid properties are variable .
+  the three partial differential equations of the laminar boundary
+layer for two-dimensional steady-state compressible flow have been
+transformed into two ordinary differential equations by the method of
+pohlhausen, falkner, and skan .  the ordinary equations include
+parameters for expressing the simultaneous effects of pressure gradient in
+the main-stream flow through a porous wall and property changes in the
+fluid due to large temperature differences between the wall and the
+free stream .
+  a total of 58 cases have been solved numerically by the method of
+picard .  the euler number (nondimensional pressure-gradient parameter)
+ranges in value from 1 (stagnation-point value) to the negative values
+found at the laminar separation points .  three rates of flow through
+the porous wall were considered (including the impermeable case where
+the flow rate is 0) .  five temperature ratios (stream temperature
+divided by wall temperature) were used ..  the uncooled and unheated
+case (temperature ratio of 1), two cooled cases (temperature ratios of
+ture ratios of and ) .  velocity, weight-flow, and temperature
+distributions are tabulated as are the dimensionless stream function of
+falkner and skan and its derivatives and the dimensionless temperature
+function of pohlhausen and its derivatives .
+  for each case, displacement, momentum, and convection thicknesses,
+as well as nusselt number and coefficient of friction at the wall, were
+computed .
+.I 60
+.T
+estimation forces and moments due to rolling for several
+slender tail configurations at supersonic speeds .
+.A
+bobbitt,p.j. and malvestuto,f.s.
+.W
+estimation forces and moments due to rolling for several
+slender tail configurations at supersonic speeds .
+  the velocity potentials, span loadings, and corresponding force
+and moment derivatives have been theoretically evaluated for a number
+of slender-tail arrangements performing a steady rolling motion at
+supersonic speeds .
+  the method of analysis is based upon an application of
+conformal-transformation techniques .  the utilization of these techniques allows
+the simple determination of the complex potentials for various types
+of two-dimensional boundary-value problems .
+  in addition, two simple and often-used approximations to the
+rolling derivatives have been compared with the corresponding exact
+values determined by the method presented in this report .
+  in order to show the importance of wing-tail interference, the
+effect of the flow field behind a rolling wing on the tail
+characteristics has been illustrated for a simple wing-tail arrangement .
+.I 61
+.T
+on flow of electrically conducting fluids over a flat
+plate in the presence of a transverse magnetic field .
+.A
+rossow,v.j.
+.W
+on flow of electrically conducting fluids over a flat
+plate in the presence of a transverse magnetic field .
+  the use of a magnetic field to control the motion of electrically
+conducting fluids is studied .  the boundary-layer solutions are found
+for flow over a flat plate when the magnetic field is fixed relative to
+the plate or to the fluid .  the
+equations are integrated numerically for
+the effect of the transverse magnetic
+field on the velocity and temperature
+profiles, and hence, the skin friction and rate of heat transfer .
+  it is concluded that the skin friction and the heat-transfer rate are
+reduced when the transverse magnetic
+field is fixed relative to the plate
+and increased when fixed relative to the fluid .  the total drag is
+increased in all the cases studied .
+.I 62
+.T
+similar solutions for the compressible laminar boundary
+layer with heat transfer and pressure gradient .
+.A
+cohen,c.b. and reshotko,e.
+.W
+similar solutions for the compressible laminar boundary
+layer with heat transfer and pressure gradient .
+  stewartson's transformation is applied to the laminar compressible
+boundary-layer equations and the
+requirement of similarity is introduced,
+resulting in a set of ordinary nonlinear differential equations
+previously quoted by stewartson, but unsolved .  the requirements of the
+system are ..  prandtl number of 1.0, linear viscosity-temperature
+relation across the boundary layer, an
+isothermal surface, and the particular
+distributions of free-stream velocity
+consistent with similar solutions .
+this system admits axial pressure
+gradients of arbitrary magnitude, heat
+flux normal to the surface, and arbitrary mach numbers .
+  the system of differential equations is transformed to an integral
+system, with the velocity ratio as
+the independent variable .  for this
+system, solutions are found for pressure gradients varying from that
+causing separation to the infinitely favorable gradient and for wall
+temperatures from absolute zero to twice the free-stream stagnation
+temperature .  some solutions for separated flows are also presented .
+  for favorable pressure gradients, the solutions are unique .  for
+adverse pressure gradients, where the solutions are not unique, two
+solutions of the infinite family of possible solutions are identified as
+essentially viscid at the outer edge of the boundary layer and the
+remainder essentially inviscid .  for
+the case of favorable pressure gradients
+with heated walls, the velocity within
+a portion of the boundary layer is
+shown to exceed the local external velocity .
+the variation of a reynolds
+analogy parameter, which indicates the ratio of skin friction to heat
+transfer, is from zero to 7.4 for a surface of temperature twice the
+free-stream stagnation temperature, and from zero to 2.8 for a surface
+held at absolute zero where the value 2 applies to a flat plate .
+.I 63
+.T
+hypersonic viscous flow over slender cones .
+.A
+talbot,l.
+.W
+hypersonic viscous flow over slender cones .
+  viscous self-induced pressures on 3 -semivertex-angle cones were
+measured over the range 3.7 free-stream mach number 5.8 and 0.5
+viscous-interaction parameter 2.3 .  the data were found to be in good
+agreement with results obtained by talbot on 5 cones in the range
+rameter 3.5 .  all these data were correlated reasonably well by the
+viscous-interaction parameter, which is defined as
+where and are the mach number and reynolds number based on
+ideal taylor-maccoll flow conditions and c is the chapman-rubesin
+factor .
+  a new method for calculating self-induced pressures is presented
+which takes into account the interaction between boundary-layer growth
+and the inviscid-flow field at the outer edge of the boundary layer .
+pressures calculated by this method were only 10 to 20 percent higher
+than the measured values .
+.I 64
+.T
+unsteady oblique interaction of a shock wave with plane
+disturbances .
+.A
+moore,f.k.
+.W
+unsteady oblique interaction of a shock wave with plane
+disturbances .
+  analysis is made of the flow field produced by oblique impingement
+of weak plane disturbances of arbitrary
+profile on a plane normal shock .
+three types of disturbance are considered ..
+moves .  the sound wave refracts either
+as a simple isentropic sound wave
+or as an attenuating isentropic pressure wave, depending on the angle
+between the shock and the incident
+sound wave .  a stationary vorticity
+wave of constant pressure appears behind the shock .
+reflects as a sound wave, and a stationary vorticity wave is produced .
+the shock .  the incident wave refracts as a stationary vorticity wave,
+and either a sound wave or attenuating pressure wave is also produced .
+  computations are presented for the first two types of incident wave,
+over the range of incidence angles, for shock mach numbers of 1, 1.5,
+and .
+.I 65
+.T
+convection of a pattern of vorticity through a shock
+wave .
+.A
+ribner,h.s.
+.W
+convection of a pattern of vorticity through a shock
+wave .
+  an arbitrary weak spatial distribution of vorticity can be
+represented in terms of plane sinusoidal shear waves of all orientations and
+wave lengths (fourier integral) .  the analysis treats the passage of a
+single representative weak shear wave through a plane shock and shows
+refraction and modification of the shear wave with simultaneous
+generation of an acoustically intense sound
+wave .  applications to turbulence
+and to noise in supersonic wind tunnels are indicated .
+.I 66
+.T
+some effects of joint conductivity on the temperature
+and thermal stresses in aerodynamically heated skin-stiffener
+combinations .
+.A
+griffith,g.e. and miltonberger,g.h.
+.W
+some effects of joint conductivity on the temperature
+and thermal stresses in aerodynamically heated skin-stiffener
+combinations .
+  temperatures and thermal stresses in typical skin-stiffener
+combinations of winglike structures subjected to aerodynamic heating have
+been obtained with the aid of an electronic differential analyzer .
+variations were made in an aerodynamic
+heat-transfer parameter, in a joint
+conductivity parameter, and in the ratio
+of skin width to skin thickness .
+the results, which are presented in nondimensional form, indicate that
+decreasing the joint conductivity parameter lowers both the interior
+and the average temperature ratios, increases the peak thermal stress
+ratios in the skin, and may considerably increase the peak stiffener
+stress ratios,. increasing the aerodynamic heat-transfer parameter
+decreases the interior and average temperature ratios, increases the
+peak skin stress ratios somewhat,
+but greatly increases the peak
+stiffener stress ratios,. and increasing the ratio of skin width to skin
+thickness produces only moderate decreases in the peak skin stress
+ratios while moderately increasing the peak stiffener stress ratios .
+.I 67
+.T
+dynamic stability of vehicles traversing ascending
+or descending paths through the atmosphere .
+.A
+tobak and allen.
+.W
+dynamic stability of vehicles traversing ascending
+or descending paths through the atmosphere .
+  an analysis is given of the oscillatory motions of vehicles which
+traverse ascending and descending paths through the atmosphere at high
+speed .  the specific case of a skip path is examined in detail, and
+this leads to a form of solution for the oscillatory motion which should
+recur over any trajectory .  the distinguishing feature of this form is
+the appearance of the bessel rather than the trigonometric function as
+the characteristic mode of oscillation .
+.I 68
+.T
+some aspects of air-helium simulation and hypersonic
+approximations .
+.A
+love,e.s.
+.W
+some aspects of air-helium simulation and hypersonic
+approximations .
+  some illustrations of the differences that may be expected between
+results obtained in hypersonic wind tunnels that employ air and results
+obtained in those that employ helium as the test medium (imperfect-gas
+effects are not considered) are compiled and presented herein .  simple
+expressions are presented that demonstrate the possibility of simulating
+air results in helium tests and of transforming helium data to
+equivalent air data .  nonviscous and viscous simulations are considered .  in
+most cases, the methods and the general forms of the expressions for
+simulation that are derived are applicable to any two ideal gases having
+different ratios of specific heats .
+.I 69
+.T
+predicted shock envelopes about two types of vehicles
+at large angles of attack .
+.A
+kaattari,g.e.
+.W
+predicted shock envelopes about two types of vehicles
+at large angles of attack .
+  methods based on oblique- and normal-shock relationships and the
+continuity of mass flow through suitably chosen volume elements between
+the shock and body were developed to predict shock envelopes about two
+types of vehicles being considered for atmosphere entry .  one type is a
+high-drag capsule shape .  the other type is essentially a slender
+triangular wing capable of providing high lift or high drag, depending on
+the angle of attack .  predicted and measured shock envelopes were
+compared for a mach number range of 3 to 15 for vehicles at high angles of
+attack,. good agreement was found .  most of the available experimental
+data were in a speed and temperature range in which no important
+real-gas effects occurred .
+.I 70
+.T
+a study of flow changes associated with airfoil section
+drag rise at supercritical speeds .
+.A
+nitzburg,g.e. and crandall,s.
+.W
+a study of flow changes associated with airfoil section
+drag rise at supercritical speeds .
+  a study of experimental pressure distributions and section
+characteristics for several moderately thick airfoil sections was made .  a
+correlation appears to exist between the drag-divergence mach number
+and the free-stream mach number for which sonic velocity occurs at the
+airfoil crest, the chordwise station at which the airfoil surface is
+tangent to the free-stream direction .  it was found that, since the
+mach number for which sonic velocity occurs at the airfoil crest can be
+estimated satisfactorily by means of the prandtl-glauert rule, a method
+is provided whereby the drag-divergence mach number of an airfoil
+section at a given angle of attack can be estimated from the low-speed
+pressure distribution and the airfoil profile .  this method was used
+to predict with a reasonable degree of accuracy the drag-divergence
+mach number of a considerable number of airfoil sections having diverse
+shapes and a wide range of thickness-chord ratios .
+  the pressure distributions and section force characteristics of
+several moderately thick airfoil sections at mach numbers above the
+drag-divergence mach number were analyzed .  some of the characteristics
+of the flow over these airfoils at supercritical mach numbers are
+discussed .
+.I 71
+.T
+laminar boundary layer behind shock advancing into
+stationary fluid .
+.A
+mirels,h.
+.W
+laminar boundary layer behind shock advancing into
+stationary fluid .
+  a study was made of the laminar compressible boundary layer induced
+by a shock wave advancing into a stationary fluid bounded by a wall .
+for weak shock waves, the boundary layer is identical with that which
+occurs when an infinite wall is impulsively set into uniform motion
+shocks .
+  velocity and temperature profiles, recovery factors, and
+skin-friction and heat-transfer coefficients are tabulated for a wide range
+of shock strengths .
+.I 72
+.T
+boundary layer behind shock or thin expansion wave
+moving into stationary fluid .
+.A
+mirels,h.
+.W
+boundary layer behind shock or thin expansion wave
+moving into stationary fluid .
+  the boundary layer behind a shock or thin expansion wave advancing
+into a stationary fluid has been determined .  laminar and turbulent
+boundary layers were considered .  the wall surface temperature behind
+the wave was also investigated .  the assumption of a thin expansion
+wave is valid for weak expansions but becomes progressively less
+accurate for strong expansion waves .
+  the laminar-boundary-layer problem was solved by numerical
+integration except for the weak wave case,
+which can be solved analytically .
+integral (karman-pohlhausen type)
+solutions were also obtained to provide
+a guide for determining expressions
+which accurately represent the
+numerical data .  analytical expressions
+for various boundary-layer parameters
+are presented which agree with the
+numerical integrations within 1 percent .
+  the turbulent-boundary-layer problem was solved using integral
+methods similar to those employed for the
+solution of turbulent compressible
+flow over a semi-infinite flat plate .
+the fluid velocity, relative to
+the wall, was assumed to have a
+seventh-power profile .  the blasius
+equation, relating turbulent skin friction
+and boundary-layer thickness, was
+utilized in a form which accounted for compressibility .
+  consideration of the heat transfer to the wall permitted the wall
+surface temperature, behind the wave,
+to be determined .  the wall
+thickness was assumed to be greater than the
+wall thermal-boundary-layer
+thickness .  it was found that the wall
+temperature was uniform (as a
+function of distance behind the wave)
+for the laminar-boundary-layer case
+but varied with distance for the turbulent-boundary-layer case .
+.I 73
+.T
+investigation of the stability of the laminar boundary
+layer in a compressible fluid .
+.A
+lees,l. and lin,c.c.
+.W
+investigation of the stability of the laminar boundary
+layer in a compressible fluid .
+  in the present report the stability of two-dimensional laminar
+flows of a gas is investigated by the method of small perturbations .
+the chief emphasis is placed on the case of the laminar boundary layer .
+  part 1 of the present report deals with the general mathematical
+theory .  the general equations governing one normal mode of the small
+velocity and temperature disturbances are derived and studied in great
+detail .  it is found that for reynolds numbers of the order of those
+encountered in most aerodynamic problems, the temperature disturbances
+have only a negligible effect on those particular velocity solutions
+which depend primarily on the viscosity coefficient (/viscous
+solutions/) .  indeed, the latter are actually of the same form in the
+compressible fluid as in the incompressible fluid, at least to the first
+approximation .  because of this fact, the mathematical analysis is
+greatly simplified .  the final equation determining the characteristic
+values of the stability problem depends on the /inviscid solutions/ and
+the function of tietjens in a manner very similar to the case of the
+incompressible fluid .  the second viscosity coefficient and the
+coefficient of heat conductivity do not enter the problem,. only the
+ordinary coefficient of viscosity near the solid surface is involved .
+  part 2 deals with the limiting case of infinite reynolds numbers .
+the study of energy relations is very much emphasized .  it is shown
+that the disturbance will gain energy from the main flow if the gradient
+of the product of mean density and mean vorticity near the solid surface
+has a sign opposite to that near the outer edge of the boundary layer .
+  a general stability criterion has been obtained in terms of the
+gradient of the product of density and vorticity, analogous to the
+rayleigh-tollmien criterion for the case of an incompressible fluid .
+if this gradient vanishes for some value of the velocity ratio of the
+main flow exceeding 1-1/m (where m is the free stream mach number) .
+.I 74
+.T
+an experimental study of the turbulen coundary layer
+on a shock tube wall .
+.A
+gooderum,p.n.
+.W
+an experimental study of the turbulen coundary layer
+on a shock tube wall .
+  interferometric measurements were made of the density profiles of
+an unsteady turbulent boundary layer on the flat wall of a shock tube .
+the investigation included both subsonic and supersonic flow (mach
+numbers of 0.50 and 1.77) with no pressure gradient and with heat transfer
+to a cold wall .  velocity profiles and average skin-friction
+coefficients were calculated .  effects on the velocity profile of
+surface roughness and flow length are examined .
+.I 75
+.T
+studies of structural failure due to acoustic loading .
+.A
+hess,n.w.
+.W
+studies of structural failure due to acoustic loading .
+  some discussion of the acoustic fatigue problem of aircraft
+structures is given along with data pertaining to the acoustic inputs from
+some powerplants in common use .  comparisons are given for results of
+some fatigue tests of flat panels and cantilever beams exposed to both
+random- and discrete-type inputs .  in this regard it appears that both
+the stress level of the test and the type of model are significant,.
+hence, no generalization can be made at this time .  with regard to
+increasing the fatigue life, it was noted that increased stiffening of
+a panel due to curvature and pressure differential is particularly
+beneficial .
